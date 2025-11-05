@@ -1,10 +1,10 @@
 {
     "name": "MEAT EATER",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "",
     "dependencies": {
         "device": "*",
-        "MEAT EATER": "github:mlzbrother/meat-eater#v0.0.1"
+        "MEAT EATER": "github:mlzbrother/meat-eater"
     },
     "files": [
         "main.blocks",
